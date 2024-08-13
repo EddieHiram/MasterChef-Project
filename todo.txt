@@ -1,0 +1,8 @@
+1) add unit test _ 
+2) add login if still big query- 
+4) fix and abstract download button- Ray, Emmanuel
+5) Read me add dependecy
+
+
+---------------------------------
+strech goal add text to speach

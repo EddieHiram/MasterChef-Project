@@ -1,0 +1,6 @@
+bcrypt
+google-cloud-texttospeech
+google-generativeai
+st-pages
+streamlit
+vertexai
