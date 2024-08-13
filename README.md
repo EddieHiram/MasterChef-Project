@@ -1,4 +1,19 @@
-# Final Project Repository
+# MaterChef Project Repository
+
+Project Manager: Josh McAdams.
+Team members:
+  * Luis Escamilla.
+  * Ray Castaneda.
+  * Emmanuel Adeyemi.
+  * Eduardo Ceballos.
+
+This is an application developed in Streamlit and designed in Figma to generate recipes according to your needs and ingredients. The functionalities of the page include:
+
+  * API calls to Gemini to generate recipes.
+  * Storing a history in BigQuery.
+  * Logging in on the main page.
+  * Receiving recommendations or similar recipes.
+  * Implementation of AI-generated audio and images.
 
 In order to run the *Recipes By Gemini* you'll need a Google Cloud
 project. Create that project in
