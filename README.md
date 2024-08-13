@@ -15,6 +15,8 @@ This is an application developed in Streamlit and designed in Figma to generate 
   * Receiving recommendations or similar recipes.
   * Implementation of AI-generated audio and images.
 
+App link: https://mywebappservice-dgasx36rwq-wl.a.run.app/
+
 In order to run the *Recipes By Gemini* you'll need a Google Cloud
 project. Create that project in
 [the Google Cloud Console](https://console.cloud.google.com).
